@@ -13,6 +13,7 @@ The Uncensored Hidden Wiki is a comprehensive guide to navigating the intricate 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [about].(#about)
 
 ## Introduction
 
@@ -57,5 +58,16 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For inquiries or support, please contact [The Uncensored Hidden Wiki](https://thehiddenwiki.eu/).
+
+## About
+
+(1-tor onion-service hidden-service 
+(2-deep-web onion darknet hidden-services
+(3-deepweb darkweb onion-sites onion-services
+(4-darknet-markets tornetwork 
+Tor network:https://www.torproject.org/
+Dark web:https://en.wikipedia.org/wiki/Dark_web
+deep web:https://en.wikipedia.org/wiki/Deep_web
+onion dictionary:https://www.torproject.org/download/
 
 &copy; 2023 The Hidden Wiki
