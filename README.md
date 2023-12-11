@@ -30,9 +30,7 @@ Contributions are encouraged! If you discover new onion services or notice any d
 
 If you find this project valuable, consider giving it a star or sharing it with others. Your support helps maintain the directory and assists fellow Tor users in discovering uncensored content.
 
-## About
 
-links, tor, onion-service, hidden-service, deep-web, onion, darknet, hidden-services, deepweb, darkweb, onion-sites, onion-services, darknet-markets, tornetwork, deepweb-links, onion-link, onion-links, darkweb-links
 
 
 ---
